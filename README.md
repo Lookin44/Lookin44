@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Egor Lukin</h1>
-<h3 align="center">A beginer back-end developer on Python from Russia, Saint_Petersburg</h3>
+<h3 align="center">A beginer back-end developer on Python from Russia, Saint-Petersburg</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lookin44" alt="lookin44" /></a> </p>
 
