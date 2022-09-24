@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lookin44" alt="lookin44" /></a> </p>
 
-- 🔭 I’m currently working on [crm_nissan_manufacturing](https://github.com/Lookin44/crm_nissan_manufacturing)
+- 🔭 I’m currently working on [crm-car-manufacturing](https://github.com/Lookin44/crm-car-manufacturing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lookin44](https://github.com/Lookin44)
 
